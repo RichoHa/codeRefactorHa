@@ -22,6 +22,6 @@ A webpage for Horiseon with the code refactored.
 - included alt in image elements.
 
 ##  Image of Deployed Application
-![ImageOfApplication](./Develop/assets/images/webExample.JPG)
+![ImageOfApplication](./assets/images/webExample.JPG)
 
 
